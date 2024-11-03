@@ -24,4 +24,4 @@
 ## 😄 Pronouns: He/Him
 
 ## ⚡ Fun fact:
-I developed an automated video summarization model that generates concise summaries from videos, significantly enhancing content accessibility and understanding!
+I developed a voice-activated assistant that can perform web searches and automate tasks based on user commands!
