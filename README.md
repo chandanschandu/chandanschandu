@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @chandanschandu
+# 👋 Hi, I’m @chandan
 
 ## About Me
 I am a passionate and goal-oriented Computer Science student specializing in software development with a strong focus on machine learning and video processing. I have developed an automated video summarization pipeline that leverages advanced technologies to enhance content understanding.
