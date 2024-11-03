@@ -1,13 +1,11 @@
 # 👋 Hi, I’m @chandan
 
-## About Me
-I am a passionate and goal-oriented Computer Science student specializing in software development with a strong focus on machine learning and video processing. I have developed an automated video summarization pipeline that leverages advanced technologies to enhance content understanding.
 
 ## 👀 I’m interested in...
-- Video Summarization
 - Machine Learning
 - Software Development
 - AI Technologies
+- Data Science
 
 ## 🌱 I’m currently learning...
 - Advanced Machine Learning Techniques
@@ -15,7 +13,7 @@ I am a passionate and goal-oriented Computer Science student specializing in sof
 - Web Development with Django
 
 ## 💞️ I’m looking to collaborate on...
-- Open-source projects in video processing
+- Open-source projects in video processing and Django
 - Innovative software solutions
 - Research and development in AI technologies
 
